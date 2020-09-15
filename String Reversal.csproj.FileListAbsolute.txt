@@ -1,0 +1,13 @@
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.exe
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.deps.json
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.runtimeconfig.json
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.runtimeconfig.dev.json
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.dll
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.pdb
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.csprojAssemblyReference.cache
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.AssemblyInfoInputs.cache
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.AssemblyInfo.cs
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.csproj.CoreCompileInputs.cache
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.dll
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.pdb
+C:\Users\Sisipo\Documents\Future Innovation\Visual studio\Myfirst\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.genruntimeconfig.cache
